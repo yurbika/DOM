@@ -1,0 +1,1 @@
+Calculate the size of scrollbar width

@@ -1,0 +1,1 @@
+change favicon with js

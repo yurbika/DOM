@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+}
+
+textarea {
+  font-size: 2.5rem;
+  resize: none;
+  height: 20rem;
+  padding: 15px;
+}

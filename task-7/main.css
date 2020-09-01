@@ -1,0 +1,11 @@
+#button {
+  height: 50px;
+  width: 50px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: black;
+}
