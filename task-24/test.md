@@ -1,0 +1,3 @@
+innerText => 
+innerHTML => 
+innerContent => 

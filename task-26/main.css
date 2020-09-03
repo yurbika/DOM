@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: white;
+}
+
+textarea {
+  height: 15rem;
+  width: 10rem;
+  font-size: 2.5rem;
+  padding: 15px;
+  resize: none;
+  overflow-y: scroll;
+  position: relative;
+}

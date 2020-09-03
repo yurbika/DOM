@@ -1,0 +1,1 @@
+Detect internet explorer browser

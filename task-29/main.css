@@ -1,0 +1,21 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  position: relative;
+}
+.modified-image {
+  /* Absolute position */
+  left: 0;
+  position: absolute;
+  top: 0;
+
+  /* Take full height and half width of container */
+  height: 100%;
+  width: 50%;
+}
