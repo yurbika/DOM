@@ -1,0 +1,1 @@
+Detect mac os browser
