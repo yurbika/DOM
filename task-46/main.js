@@ -1,3 +1,8 @@
+{
+  /* <input type="file" id="upload" />
+<div id="size"></div> */
+}
+
 // Query the elements
 const fileEle = document.getElementById("upload");
 const sizeEle = document.getElementById("size");
